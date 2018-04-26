@@ -52,7 +52,7 @@ public class Main {
 				records.add(r);
 				t.start();
 			} catch (Exception e) {
-				e.printStackTrace();
+				// it is not a reading line
 			}
 		}
 
